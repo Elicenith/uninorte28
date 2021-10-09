@@ -1,2 +1,4 @@
 Datos personales
-Nombre: Elicenith Caro 
+Nombre: Elicenith 
+Apellido: Caro
+e-mail: elicenithcaropimienta@gmail.com
